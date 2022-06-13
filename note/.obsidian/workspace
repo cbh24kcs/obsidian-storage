@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "一篇笔记.md",
+            "file": "日记/2022-06-13.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一篇笔记.md",
+                "file": "日记/2022-06-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "0f56fab773003c16",
   "lastOpenFiles": [
-    "一篇笔记.md"
+    "日记/2022-06-13.md",
+    "00000000/一篇笔记.md"
   ]
 }
