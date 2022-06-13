@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "日记/2022-06-14.md",
+            "file": "日记/2022-06-13.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Python",
+                "query": "tag:#参数传递",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2022-06-14.md",
+                "file": "日记/2022-06-13.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,12 +97,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2022-06-14.md"
+                "file": "日记/2022-06-13.md"
+              }
+            }
+          },
+          {
+            "id": "c9617cdfb86cc500",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "日记/2022-06-13.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -111,14 +123,14 @@
   },
   "active": "4764acf69eb0fa0d",
   "lastOpenFiles": [
-    "日记/2022-06-14.md",
     "日记/2022-06-13.md",
+    "日记/2022-06-14.md",
+    "JavaScript/函数/JS函数的参数传递方式.md",
     "Python/Python基础笔记.md",
+    "JavaScript/数组/JS数组方法整理.md",
     "00000000/一篇笔记.md",
     "C&C++/C++函数参数传递.md",
-    "JavaScript/函数/JS函数的参数传递方式.md",
     "Rust/未命名.md",
-    "JavaScript/数组/JS数组方法整理.md",
     "技术路线/初级大数据研发技术栈-思维导图.md"
   ]
 }
