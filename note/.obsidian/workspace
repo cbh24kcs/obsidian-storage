@@ -7,12 +7,8 @@
         "id": "4764acf69eb0fa0d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "学习笔记/前端相关/JavaScript/数组/JS数组方法整理.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习笔记/前端相关/JavaScript/数组/JS数组方法整理.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -79,8 +74,28 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "feddef95cb64803f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c0c2dae06b065ca6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,11 +104,13 @@
   },
   "active": "4764acf69eb0fa0d",
   "lastOpenFiles": [
-    "学习笔记/前端相关/JavaScript/数组/JS数组方法整理.md",
-    "学习笔记/前端相关/JavaScript/函数/JS函数的参数传递方式.md",
-    "日记/2022-06-13.md",
-    "技术路线/初级大数据研发技术栈-思维导图.md",
+    "学习笔记/Python/Python基础笔记.md",
     "学习笔记/C&C++/C++函数参数传递.md",
+    "学习笔记/前端相关/JavaScript/函数/JS函数的参数传递方式.md",
+    "学习笔记/Rust/未命名.md",
+    "日记/2022-06-13.md",
+    "学习笔记/前端相关/JavaScript/数组/JS数组方法整理.md",
+    "技术路线/初级大数据研发技术栈-思维导图.md",
     "00000000/一篇笔记.md"
   ]
 }
