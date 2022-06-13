@@ -7,8 +7,12 @@
         "id": "4764acf69eb0fa0d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "日记/2022-06-13.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日记/2022-06-13.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "日记/2022-06-13.md"
+              }
             }
           }
         ],
@@ -104,13 +111,13 @@
   },
   "active": "4764acf69eb0fa0d",
   "lastOpenFiles": [
-    "学习笔记/Python/Python基础笔记.md",
-    "学习笔记/C&C++/C++函数参数传递.md",
-    "学习笔记/前端相关/JavaScript/函数/JS函数的参数传递方式.md",
-    "学习笔记/Rust/未命名.md",
     "日记/2022-06-13.md",
-    "学习笔记/前端相关/JavaScript/数组/JS数组方法整理.md",
-    "技术路线/初级大数据研发技术栈-思维导图.md",
-    "00000000/一篇笔记.md"
+    "00000000/一篇笔记.md",
+    "Python/Python基础笔记.md",
+    "C&C++/C++函数参数传递.md",
+    "前端相关/JavaScript/函数/JS函数的参数传递方式.md",
+    "Rust/未命名.md",
+    "前端相关/JavaScript/数组/JS数组方法整理.md",
+    "技术路线/初级大数据研发技术栈-思维导图.md"
   ]
 }
