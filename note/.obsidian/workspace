@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "日记/2022-06-13.md",
+            "file": "日记/2022-06-14.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2022-06-13.md",
+                "file": "日记/2022-06-14.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2022-06-13.md"
+                "file": "日记/2022-06-14.md"
               }
             }
           }
@@ -111,6 +111,7 @@
   },
   "active": "4764acf69eb0fa0d",
   "lastOpenFiles": [
+    "日记/2022-06-14.md",
     "日记/2022-06-13.md",
     "Python/Python基础笔记.md",
     "00000000/一篇笔记.md",
