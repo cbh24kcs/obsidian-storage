@@ -1,4 +1,20 @@
 [
+  "oz-clear-unused-images",
   "obsidian-git",
-  "oz-clear-unused-images"
+  "table-editor-obsidian",
+  "obsidian-excalidraw-plugin",
+  "obsidian-pandoc",
+  "file-explorer-note-count",
+  "recent-files-obsidian",
+  "obsidian-minimal-settings",
+  "calendar",
+  "obsidian-outliner",
+  "obsidian-mind-map",
+  "obsidian-tasks-plugin",
+  "obsidian-memos",
+  "dataview",
+  "quick-explorer",
+  "cmenu-plugin",
+  "obsidian-emoji-toolbar",
+  "note-refactor-obsidian"
 ]

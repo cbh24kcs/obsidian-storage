@@ -1,0 +1,178 @@
+{
+  "recentFiles": [
+    {
+      "basename": "2022-06-14",
+      "path": "obsidian-assets/daily-note/2022-06-14.md"
+    },
+    {
+      "basename": "JS函数的参数传递",
+      "path": "001~编程学习/前端/03~JavaScript/JS函数的参数传递.md"
+    },
+    {
+      "basename": "010~导航守卫",
+      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/010~导航守卫.md"
+    },
+    {
+      "basename": "012~过渡动效",
+      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/012~过渡动效.md"
+    },
+    {
+      "basename": "011~路由元信息",
+      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/011~路由元信息.md"
+    },
+    {
+      "basename": "005~命名路由",
+      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/005~命名路由.md"
+    },
+    {
+      "basename": "008~路由组件传参",
+      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/008~路由组件传参.md"
+    },
+    {
+      "basename": "Vue相关",
+      "path": "网址收藏/Vue相关.md"
+    },
+    {
+      "basename": "001~VueRouter的引入",
+      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/001~VueRouter的引入.md"
+    },
+    {
+      "basename": "016~导航故障",
+      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/016~导航故障.md"
+    },
+    {
+      "basename": "015~路由懒加载",
+      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/015~路由懒加载.md"
+    },
+    {
+      "basename": "014~滚动行为",
+      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/014~滚动行为.md"
+    },
+    {
+      "basename": "013~数据获取",
+      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/013~数据获取.md"
+    },
+    {
+      "basename": "009~HTML5 History 模式",
+      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/009~HTML5 History 模式.md"
+    },
+    {
+      "basename": "007~重定向 & 别名",
+      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/007~重定向 & 别名.md"
+    },
+    {
+      "basename": "006~命名视图",
+      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/006~命名视图.md"
+    },
+    {
+      "basename": "004~编程式导航",
+      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/004~编程式导航.md"
+    },
+    {
+      "basename": "003~嵌套路由",
+      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/003~嵌套路由.md"
+    },
+    {
+      "basename": "002~动态路由匹配",
+      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/002~动态路由匹配.md"
+    },
+    {
+      "basename": "2022-06-13",
+      "path": "obsidian-assets/daily-note/2022-06-13.md"
+    },
+    {
+      "basename": "Obsidian相关网站、资料",
+      "path": "003~软件使用/笔记工具/Obsidian/Obsidian相关网站、资料.md"
+    },
+    {
+      "basename": "闭包",
+      "path": "001~编程学习/前端/03~JavaScript/闭包.md"
+    },
+    {
+      "basename": "对象类型",
+      "path": "001~编程学习/前端/03~JavaScript/对象类型.md"
+    },
+    {
+      "basename": "provide 与 inject",
+      "path": "001~编程学习/前端/视图框架/Vue/Vue2/provide 与 inject.md"
+    },
+    {
+      "basename": "JSX与渲染函数",
+      "path": "001~编程学习/前端/视图框架/Vue/Vue2/JSX与渲染函数.md"
+    },
+    {
+      "basename": "组件之间传递数据的方式",
+      "path": "001~编程学习/前端/视图框架/Vue/Vue2/组件之间传递数据的方式.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "000~INBOX/未命名.md"
+    },
+    {
+      "basename": "TEST",
+      "path": "000~INBOX/TEST.md"
+    },
+    {
+      "basename": "2022-06-15",
+      "path": "obsidian-assets/daily-note/2022-06-15.md"
+    },
+    {
+      "basename": "WMS一期优化需求",
+      "path": "000~WORK/项目/WMS/WMS一期优化需求.md"
+    },
+    {
+      "basename": "货主新pc相关wiki",
+      "path": "000~WORK/WIKI/货主新pc相关wiki.md"
+    },
+    {
+      "basename": "pre1的Jenkins",
+      "path": "000~WORK/Jenkins/pre1的Jenkins.md"
+    },
+    {
+      "basename": "测试环境Jenkins",
+      "path": "000~WORK/Jenkins/测试环境Jenkins.md"
+    },
+    {
+      "basename": "PubSubJS",
+      "path": "001~编程学习/前端/发布订阅/PubSubJS.md"
+    },
+    {
+      "basename": "MITT",
+      "path": "001~编程学习/前端/发布订阅/MITT.md"
+    },
+    {
+      "basename": "5.04.02",
+      "path": "000~WORK/版本任务/5.04.02.md"
+    },
+    {
+      "basename": "账号",
+      "path": "000~WORK/项目/新货主/账号.md"
+    },
+    {
+      "basename": "001~Vite基本使用",
+      "path": "001~编程学习/前端/构建&打包/Vite/001~Vite基本使用.md"
+    },
+    {
+      "basename": "Obsidian搜索的技巧",
+      "path": "003~软件使用/笔记工具/Obsidian/Obsidian搜索的技巧.md"
+    },
+    {
+      "basename": "5.05.01",
+      "path": "000~WORK/版本任务/5.05.01.md"
+    },
+    {
+      "basename": "5.05.03",
+      "path": "000~WORK/版本任务/5.05.03.md"
+    },
+    {
+      "basename": "DailyNote",
+      "path": "obsidian-assets/templates/DailyNote.md"
+    },
+    {
+      "basename": "C++函数传参相关",
+      "path": "001~编程学习/C&C++/C++函数传参相关.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": 100
+}

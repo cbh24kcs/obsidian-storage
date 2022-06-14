@@ -1,33 +1,73 @@
 {
   "main": {
-    "id": "51ab32c00051ce49",
+    "id": "e126f657bce02388",
     "type": "split",
     "children": [
       {
-        "id": "4764acf69eb0fa0d",
+        "id": "615728b65114fb79",
         "type": "leaf",
+        "dimension": 73.07366638441998,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "日记/2022-06-14.md",
+            "file": "obsidian-assets/daily-note/2022-06-14.md",
             "mode": "source",
+            "backlinks": false,
             "source": false
           }
-        }
+        },
+        "group": "7d0d30e85ed12945"
+      },
+      {
+        "id": "4ca370427b15a2ac",
+        "type": "leaf",
+        "dimension": 26.926333615580017,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "obsidian-assets/daily-note/2022-06-14.md",
+            "options": {
+              "collapse-filter": false,
+              "search": "",
+              "localJumps": 5,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": true,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1.0000000000000007,
+              "close": true
+            }
+          }
+        },
+        "group": "7d0d30e85ed12945"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fbbea7034f981ba0",
+    "id": "7ba04fe3aeb2ccdc",
     "type": "split",
     "children": [
       {
-        "id": "c6c84d950dec5938",
+        "id": "0fd43bbe14d7196d",
         "type": "tabs",
         "children": [
           {
-            "id": "2afdfed30b7bf1d6",
+            "id": "9740acf6111562d2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +75,12 @@
             }
           },
           {
-            "id": "8d043d76fadaef8a",
+            "id": "4a48914c4c66aa61",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#参数传递",
+                "query": "tag:#JavaScript",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,40 +88,39 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "df070512c3500b80",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b5985cbceaed0c9",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 313
   },
   "right": {
-    "id": "3a69509eedb86543",
+    "id": "e56d75fbb99bb490",
     "type": "split",
     "children": [
       {
-        "id": "d5688e870d48966d",
+        "id": "89d2ee7b4f487cf6",
         "type": "tabs",
         "children": [
           {
-            "id": "c5b874398dd122e0",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "日记/2022-06-14.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "feddef95cb64803f",
+            "id": "89b8642731f343c7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -92,46 +131,70 @@
             }
           },
           {
-            "id": "c0c2dae06b065ca6",
+            "id": "886beff4139052b6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2022-06-14.md"
+                "file": "obsidian-assets/daily-note/2022-06-14.md"
               }
             }
           },
           {
-            "id": "c9617cdfb86cc500",
+            "id": "b95ddc6a0c3feec4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "obsidian-assets/daily-note/2022-06-14.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88691852a6fa8abd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2022-06-13.md",
+                "file": "obsidian-assets/daily-note/2022-06-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "ac7c1b53c28bff98",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 289.5,
     "collapsed": true
   },
-  "active": "4764acf69eb0fa0d",
+  "active": "615728b65114fb79",
   "lastOpenFiles": [
-    "日记/2022-06-14.md",
-    "日记/2022-06-13.md",
-    "日记/2022-06-14.md",
-    "JavaScript/函数/JS函数的参数传递方式.md",
-    "Python/Python基础笔记.md",
-    "JavaScript/数组/JS数组方法整理.md",
-    "00000000/一篇笔记.md",
-    "C&C++/C++函数参数传递.md",
-    "Rust/未命名.md",
-    "技术路线/初级大数据研发技术栈-思维导图.md"
+    "obsidian-assets/daily-note/2022-06-14.md",
+    "001~编程学习/前端/03~JavaScript/JS函数的参数传递.md",
+    "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/010~导航守卫.md",
+    "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/012~过渡动效.md",
+    "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/011~路由元信息.md",
+    "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/005~命名路由.md",
+    "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/008~路由组件传参.md",
+    "网址收藏/Vue相关.md",
+    "001~编程学习/前端/视图框架/Vue/VueRouter/res.md",
+    "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/001~VueRouter的引入.md"
   ]
 }

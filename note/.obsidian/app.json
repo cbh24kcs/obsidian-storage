@@ -1,14 +1,15 @@
 {
-  "readableLineLength": false,
-  "showLineNumber": true,
-  "alwaysUpdateLinks": false,
-  "attachmentFolderPath": "./assets",
   "legacyEditor": false,
-  "pdfExportSettings": {
-    "pageSize": "A4",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
-  },
-  "newLinkFormat": "absolute"
+  "livePreview": true,
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "attachmentFolderPath": "obsidian-assets/attachments",
+  "promptDelete": true,
+  "newLinkFormat": "absolute",
+  "userIgnoreFilters": null,
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "000~INBOX",
+  "strictLineBreaks": true
 }
