@@ -1,83 +1,51 @@
-# 快速总结
+## 快速总结
 
-# 声明数组
-- <b><font color = orange>空数组</font></b>
-    - *let arr = new Array ( );
-    - *let arr = [ ];    <font color = grey>字面量创建</font>
-- <b><font color = orange>指定length</font></b>
-    - *let arr = Array (3);*   <font color = yellow>数组的length属性非只读，可以通过修改length从末尾增加/删除元素</font>
-- <b><font color = orange>指定数组元素</font></b>
-     - *let arr = [1, 2, 3, 4];*    <font color = grey>如为单个数字参数则可能同指定length的创建方式</font>
-- <b><font color = orange>ES6新增创建数组的静态方法</font></b>
-    - *Array.from ( <font color = grey size = 2>类数组对象</font>, <font color =grey size = 2>映射函数参数 [可选]</font>, <font color = grey size =2>指定映射函数中this的值 [可选]</font>);  
-         - 将类数组结构转换为数组实例，<font color = yellow>重写的this值在箭头函数中不适用</font>
-    - *Array.of ( );  
-         - 将一组参数转换为数组实例。可用于替代*Array.prototype.slice.call(arguments)
+## 声明数组
+### 空数组
+- `let arr = new Array ( );`
+-  `let arr = [ ];` 字面量创建
 
-# 检测数组
-- *Array.isArray ( )
+### 指定length
+- `let arr = Array (3);` 数组的length属性非只读，可以通过修改length从末尾增加/删除元素
 
-# 迭代器
-- <b><font color = orange>Array原型检索数组内容方法</font></b> #原型 
-     - *keys ( );*       <font color = grey>返回数组索引的迭代器</font>
-     - *values ( );*    <font color = grey>返回数组元素的迭代器</font>
-     - *entries ( );*   <font color = grey>返回索引/值对应的迭代器 </font>
+### 指定数组元素
+- `let arr = [1, 2, 3, 4];` 如为单个数字参数则可能同指定length的创建方式
 
-# 方法整理
-- <b><font color = orange>复制及填充</font></b>
-    - *fill  ( <font color = grey size = 2>需填充元素</font>, <font color =grey size = 2>开始填充索引位置 [可选]</font>, <font color = grey size =2>结束填充索引位置 [可选]</font>);*   指定元素填充
-    - *copyWithin ( <font color = grey size = 2>插入位置</font>, <font color =grey size = 2>开始复制索引位置 [可选]</font>, <font color = grey size =2>结束复制索引位置 [可选]</font>);*  批量进行浅复制，并将结果填充至指定位置。
-- <b><font color = orange>转换</font></b>
+### ES6新增创建数组的静态方法
+- `Array.from (类数组对象, 映射函数参数 [可选],指定映射函数中this的值 [可选]);`
+    - 将类数组结构转换为数组实例，==重写的this值在箭头函数中不适用
+- `Array.of ( );`  将一组参数转换为数组实例。可用于替代`Array.prototype.slice.call(arguments)`
 
+## 检测数组
+- `Array.isArray ( );`
 
+## 迭代器
+### Array原型检索数组内容方法  #原型 
+   - `keys ( );` 返回数组==索引==的迭代器
+   - `values ( );` 返回数组==元素==的迭代器
+   - `entries ( );` 返回==索引/元素==的迭代器
 
+## 方法整理
+### 复制及填充
+   - `fill  (需填充元素, 开始填充索引位置 [可选], 结束填充索引位置 [可选]);`   指定元素填充
+   - `copyWithin (插入位置, 开始复制索引位置 [可选], 结束复制索引位置 [可选]);`  批量进行==浅复制==，并将结果填充至指定位置。
 
+### 转换
+   - `value of ( );`
+   - `toString ( );`
+   - `alert ( );` 期待字符串，结果同`toString ( )`
+   - `toLocaleString ( )`
+   - `join ( )` 修改数组分隔符
 
+### 栈方法及队列方法
+   - `push ( );` 数组末尾添加元素
+   - `pop ( );` 数组末尾删除元素
+   - `shift ( );` 数组开头删除元素
+   - `unshift ( );` 数组开头添加元素
+   ==【TIPS 1】== 以上方法删除元素返回被删除项，添加元素返回数组长度
+   ==【TIPS 2】== 性能比较：`push/pop` 方法运行的比较快，而 `shift/unshift` 比较慢
 
-
-
-
-
-
-
-## 转换方法
-
--   valueOf ( ）返回**数组本身**。
--   toString ( ) 返回由数组中**每个数值的等效字符串拼接而成的一个逗号分隔的字符串**。
--   alert ( ) 期待字符串，结果等同toString ( )。
--   toLocaleString ( ) 为了得到最终的字符串，会调用数组每个值的 toLocaleString ( ) 方法。
--   如需**改变分隔符**，需要使用 join ( ) 的方法。**如果不给join ( ) 传入任何参数，或者传入undefined，则仍然使用逗号作为分隔符。**
-
-## 栈方法
-
-栈是一种**后进先出**（LIFO, Last-In-First-Out）的**数据结构**，也就是一种限制插入和删除项的结构。也就是最近添加的项先被删除。数据项的插入（称为推入，push）和删除（称为弹出，pop）旨在栈的一个地方发生，即栈顶。**ECMAScript数组提供了push ( ) 和 pop ( ) 方法，以实现类似栈的行为。**
-
--   push ( )
-    
-    -   接收任意变量的参数，**并将它们添加到数组末尾，返回数组的最新长度。**
--   pop ( )
-    
-    -   用于删除数组的最后一项，同时减少数组的length值，**返回被删除项。**
-    
-    ```jsx
-    let a = ["1", "2"]
-    let item = colors.pop (); // 取得最后一项
-    alert (item); // 2
-    ```
-    
-
-## 队列方法
-
-队列在列表末尾添加数据，但从列表开头添加数据。
-
-模拟队列，从数组开头处理数据，采用shift ( ) 以及unshift ( )方法
-
--   shift ( )
-    -   **删除数组第一项并返回删除项，数组长度减1**
--   unshift ( )
-    -   与shift相反，**在数组开头添加任意多个值，然后返回新的数组长度。用法等同push。**
-
-## 排序方法
+### 排序方法
 
 -   reverse ( )
     

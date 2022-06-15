@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2f7a7c29b946c98c",
+        "id": "630de1d8843217b7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01~学习笔记/JavaScript/函数/JS函数的参数传递方式.md",
+            "file": "01~学习笔记/JavaScript/数组/JS数组方法整理.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ZCZY/JIRA",
+                "query": "tag:#原型",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361
+    "width": 319
   },
   "right": {
     "id": "e56d75fbb99bb490",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01~学习笔记/JavaScript/函数/JS函数的参数传递方式.md"
+                "file": "01~学习笔记/JavaScript/数组/JS数组方法整理.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01~学习笔记/JavaScript/函数/JS函数的参数传递方式.md",
+                "file": "01~学习笔记/JavaScript/数组/JS数组方法整理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,30 +148,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01~学习笔记/JavaScript/函数/JS函数的参数传递方式.md",
+                "file": "01~学习笔记/JavaScript/数组/JS数组方法整理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
-  "active": "2f7a7c29b946c98c",
+  "active": "630de1d8843217b7",
   "lastOpenFiles": [
-    "01~学习笔记/JavaScript/函数/JS函数的参数传递方式.md",
+    "01~学习笔记/JavaScript/数组/JS数组方法整理.md",
     "obsidian-assets/daily-note/2022-06-16.md",
+    "01~学习笔记/CSS/绝对定位.md",
     "obsidian-assets/daily-note/2022-06-15.md",
+    "2022-W24.md",
+    "01~学习笔记/JavaScript/函数/JS函数的参数传递方式.md",
     "obsidian-assets/templates/DailyNote.md",
     "obsidian-assets/daily-note/2022-06-17.md",
     "obsidian-assets/daily-note/2022-06-19.md",
-    "obsidian-assets/daily-note/2022-06-18.md",
-    "000~工作/项目/WMS/WMS一期优化需求.md",
-    "000~工作/项目/WMS/WMS~Jenkins.md",
-    "000~工作/版本任务/版本~5-05-03.md"
+    "obsidian-assets/daily-note/2022-06-18.md"
   ]
 }
