@@ -1,1 +1,8 @@
-{}
+{
+  "blue-topaz-theme@@bg-color-highlight-1@@dark": "#C86565",
+  "blue-topaz-theme@@muted-activeline-bg": false,
+  "blue-topaz-theme@@plain-file-title": false,
+  "blue-topaz-theme@@remove-colorful-highlight-bg": false,
+  "blue-topaz-theme@@text-color-code@@dark": "#60C792",
+  "blue-topaz-theme@@font-weight-inline-code": "normal"
+}

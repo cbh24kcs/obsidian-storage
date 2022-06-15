@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#原型",
+                "query": "tag:#参数传递",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -159,13 +159,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 324
   },
   "active": "630de1d8843217b7",
   "lastOpenFiles": [
     "01~学习笔记/JavaScript/数组/JS数组方法整理.md",
-    "obsidian-assets/daily-note/2022-06-16.md",
     "01~学习笔记/CSS/绝对定位.md",
+    "obsidian-assets/daily-note/2022-06-16.md",
     "obsidian-assets/daily-note/2022-06-15.md",
     "2022-W24.md",
     "01~学习笔记/JavaScript/函数/JS函数的参数传递方式.md",
