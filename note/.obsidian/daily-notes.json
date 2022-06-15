@@ -1,5 +1,6 @@
 {
   "folder": "obsidian-assets/daily-note",
   "autorun": true,
-  "template": "obsidian-assets/templates/DailyNote"
+  "template": "obsidian-assets/templates/DailyNote",
+  "format": "YYYY-MM-DD"
 }

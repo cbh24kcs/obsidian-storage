@@ -1,56 +1,244 @@
 {
   "recentFiles": [
     {
-      "basename": "2022-06-15",
-      "path": "obsidian-assets/daily-note/2022-06-15.md"
-    },
-    {
-      "basename": "JS数组方法整理",
-      "path": "01~学习笔记/JavaScript/数组/JS数组方法整理.md"
-    },
-    {
-      "basename": "2022-06-13",
-      "path": "obsidian-assets/daily-note/2022-06-13.md"
-    },
-    {
       "basename": "JS函数的参数传递方式",
       "path": "01~学习笔记/JavaScript/函数/JS函数的参数传递方式.md"
     },
     {
-      "basename": "2022-06-14",
-      "path": "obsidian-assets/daily-note/2022-06-14.md"
+      "basename": "2022-06-16",
+      "path": "obsidian-assets/daily-note/2022-06-16.md"
+    },
+    {
+      "basename": "2022-06-15",
+      "path": "obsidian-assets/daily-note/2022-06-15.md"
+    },
+    {
+      "basename": "DailyNote",
+      "path": "obsidian-assets/templates/DailyNote.md"
+    },
+    {
+      "basename": "WMS一期优化需求",
+      "path": "000~工作/项目/WMS/WMS一期优化需求.md"
+    },
+    {
+      "basename": "WMS~Jenkins",
+      "path": "000~工作/项目/WMS/WMS~Jenkins.md"
+    },
+    {
+      "basename": "版本~5-05-03",
+      "path": "000~工作/版本任务/版本~5-05-03.md"
+    },
+    {
+      "basename": "==ZCZY-9252 货主端界面展示优化-按箱发布",
+      "path": "000/==ZCZY-9252 货主端界面展示优化-按箱发布.md"
+    },
+    {
+      "basename": "版本~5-04-02",
+      "path": "000~工作/版本任务/版本~5-04-02.md"
+    },
+    {
+      "basename": "ZCZY-8463 亏涨吨扣款功能优化",
+      "path": "000~工作/JIRA任务/ZCZY-8463 亏涨吨扣款功能优化.md"
+    },
+    {
+      "basename": "ZCZY-8473 超载管控",
+      "path": "000~工作/JIRA任务/ZCZY-8473 超载管控.md"
+    },
+    {
+      "basename": "ZCZY-8899 回单确认增加磅差字段【有报表】",
+      "path": "000~工作/JIRA任务/ZCZY-8899 回单确认增加磅差字段【有报表】.md"
+    },
+    {
+      "basename": "版本~5-05-01",
+      "path": "000~工作/版本任务/版本~5-05-01.md"
+    },
+    {
+      "basename": "ZCZY-9030 前后台回单议价金额异常的提醒优化",
+      "path": "000~工作/JIRA任务/ZCZY-9030 前后台回单议价金额异常的提醒优化.md"
+    },
+    {
+      "basename": "ZCZY-7550 前台PC端用户名称展示",
+      "path": "000~工作/JIRA任务/ZCZY-7550 前台PC端用户名称展示.md"
+    },
+    {
+      "basename": "ZCZY-7473 结算申请界面中按钮的优化",
+      "path": "000~工作/JIRA任务/ZCZY-7473 结算申请界面中按钮的优化.md"
+    },
+    {
+      "basename": "ZCZY-7464 招投标的统计报表",
+      "path": "000~工作/JIRA任务/ZCZY-7464 招投标的统计报表.md"
+    },
+    {
+      "basename": "ZCZY-7633 回单确认角标优化",
+      "path": "000~工作/JIRA任务/ZCZY-7633 回单确认角标优化.md"
+    },
+    {
+      "basename": "ZCZY-7437 货主PC端结算申请页面字段固定优化 --新货主已经固定 无需修改",
+      "path": "000~工作/JIRA任务/ZCZY-7437 货主PC端结算申请页面字段固定优化 --新货主已经固定 无需修改.md"
+    },
+    {
+      "basename": "ZCZY-7596 逾期运单处理页面优化",
+      "path": "000~工作/JIRA任务/ZCZY-7596 逾期运单处理页面优化.md"
+    },
+    {
+      "basename": "ZCZY-7500 网络货运平台内容管理调整",
+      "path": "000~工作/JIRA任务/ZCZY-7500 网络货运平台内容管理调整.md"
+    },
+    {
+      "basename": "ZCZY-7796 首页“应转入金额”计算修改",
+      "path": "000~工作/JIRA任务/ZCZY-7796 首页“应转入金额”计算修改.md"
+    },
+    {
+      "basename": "ZCZY-7868 货主APP端回单确认相关页面优化",
+      "path": "000~工作/JIRA任务/ZCZY-7868 货主APP端回单确认相关页面优化.md"
+    },
+    {
+      "basename": "ZCZY-7888 结算价格改为结算金额",
+      "path": "000~工作/JIRA任务/ZCZY-7888 结算价格改为结算金额.md"
+    },
+    {
+      "basename": "ZCZY-7890 【回单签收】列表增加字段“自定义编号”",
+      "path": "000~工作/JIRA任务/ZCZY-7890 【回单签收】列表增加字段“自定义编号”.md"
+    },
+    {
+      "basename": "ZCZY-7887 汽运增加“收货单位名称”筛选项",
+      "path": "000~工作/JIRA任务/ZCZY-7887 汽运增加“收货单位名称”筛选项.md"
+    },
+    {
+      "basename": "ZCZY-7894 【回单确认】【结算申请】详情页增加货主单价的展示",
+      "path": "000~工作/JIRA任务/ZCZY-7894 【回单确认】【结算申请】详情页增加货主单价的展示.md"
+    },
+    {
+      "basename": "ZCZY-7916 【龙腾定制化需求】回单签收增加磅码单",
+      "path": "000~工作/JIRA任务/ZCZY-7916 【龙腾定制化需求】回单签收增加磅码单.md"
+    },
+    {
+      "basename": "ZCZY-7767 回单确认界面增加自定义字段展示并支持修改",
+      "path": "000~工作/JIRA任务/ZCZY-7767 回单确认界面增加自定义字段展示并支持修改.md"
+    },
+    {
+      "basename": "ZCZY-7906 客服管家需求优化",
+      "path": "000~工作/JIRA任务/ZCZY-7906 客服管家需求优化.md"
+    },
+    {
+      "basename": "ZCZY-8075 “备案卸货”产品需求变更--该需求后端改动大，可能需要等联调",
+      "path": "000~工作/JIRA任务/ZCZY-8075 “备案卸货”产品需求变更--该需求后端改动大，可能需要等联调.md"
+    },
+    {
+      "basename": "ZCZY-8056 货主统计报表字段优化--需要关注配合，张培龙搞不定的话协助下",
+      "path": "000~工作/JIRA任务/ZCZY-8056 货主统计报表字段优化--需要关注配合，张培龙搞不定的话协助下.md"
+    },
+    {
+      "basename": "ZCZY-8207 货主结算申请页面全部全选操作功能优化(暂停)",
+      "path": "000~工作/JIRA任务/ZCZY-8207 货主结算申请页面全部全选操作功能优化(暂停).md"
+    },
+    {
+      "basename": "ZCZY-8281 回单议价货主备注优化",
+      "path": "000~工作/JIRA任务/ZCZY-8281 回单议价货主备注优化.md"
+    },
+    {
+      "basename": "ZCZY-7729 冀东定制化需求",
+      "path": "000~工作/JIRA任务/ZCZY-7729 冀东定制化需求.md"
+    },
+    {
+      "basename": "ZCZY-7592 前台运输提醒优化",
+      "path": "000~工作/JIRA任务/ZCZY-7592 前台运输提醒优化.md"
+    },
+    {
+      "basename": "ZCZY-7795 批量货按箱发布--回单确认",
+      "path": "000~工作/JIRA任务/ZCZY-7795 批量货按箱发布--回单确认.md"
+    },
+    {
+      "basename": "ZCZY-7768 批量货按箱发布【货主首页】",
+      "path": "000~工作/JIRA任务/ZCZY-7768 批量货按箱发布【货主首页】.md"
+    },
+    {
+      "basename": "ZCZY-8209 货主结算申请及回单确认界面交互优化",
+      "path": "000~工作/JIRA任务/ZCZY-8209 货主结算申请及回单确认界面交互优化.md"
+    },
+    {
+      "basename": "ZCZY-8408 龙腾回单签收模块PC端增加详情页的磅码单展示",
+      "path": "000~工作/JIRA任务/ZCZY-8408 龙腾回单签收模块PC端增加详情页的磅码单展示.md"
+    },
+    {
+      "basename": "ZCZY-8557 运输提醒的优化",
+      "path": "000~工作/JIRA任务/ZCZY-8557 运输提醒的优化.md"
+    },
+    {
+      "basename": "ZCZY-8464 汽运平台优化",
+      "path": "000~工作/JIRA任务/ZCZY-8464 汽运平台优化.md"
+    },
+    {
+      "basename": "ZCZY-7661 收货数量修正",
+      "path": "000~工作/JIRA任务/ZCZY-7661 收货数量修正.md"
+    },
+    {
+      "basename": "ZCZY-7660 发货数量修正",
+      "path": "000~工作/JIRA任务/ZCZY-7660 发货数量修正.md"
+    },
+    {
+      "basename": "ZCZY-9491 货主端新增批量货母单号筛选项优化",
+      "path": "000~工作/JIRA任务/ZCZY-9491 货主端新增批量货母单号筛选项优化.md"
+    },
+    {
+      "basename": "ZCZY-9423 回单确认界面增加运单信息集装箱号",
+      "path": "000~工作/JIRA任务/ZCZY-9423 回单确认界面增加运单信息集装箱号.md"
+    },
+    {
+      "basename": "ZCZY-9252 货主端界面展示优化-按箱发布",
+      "path": "000~工作/JIRA任务/ZCZY-9252 货主端界面展示优化-按箱发布.md"
+    },
+    {
+      "basename": "ZCZY-9210 货主PC前台结算管理相关菜单调整",
+      "path": "000~工作/JIRA任务/ZCZY-9210 货主PC前台结算管理相关菜单调整.md"
+    },
+    {
+      "basename": "ZCZY-9027 运单后台审核标识问题",
+      "path": "000~工作/JIRA任务/ZCZY-9027 运单后台审核标识问题.md"
+    },
+    {
+      "basename": "ZCZY-8902 回单确认待处理模块增加查询条件",
+      "path": "000~工作/JIRA任务/ZCZY-8902 回单确认待处理模块增加查询条件.md"
+    },
+    {
+      "basename": "ZCZY-8777 冀东客户数字供应链解决方案需求",
+      "path": "000~工作/JIRA任务/ZCZY-8777 冀东客户数字供应链解决方案需求.md"
+    },
+    {
+      "basename": "ZCZY-8656 限制货主挂单前台提醒优化",
+      "path": "000~工作/JIRA任务/ZCZY-8656 限制货主挂单前台提醒优化.md"
+    },
+    {
+      "basename": "001~ElementUI配置",
+      "path": "001~编程学习/前端/视图框架/Vue/Vue组件库/ElementUI/001~ElementUI配置.md"
+    },
+    {
+      "basename": "ZCZY-JIRA",
+      "path": "obsidian-assets/templates/ZCZY-JIRA.md"
+    },
+    {
+      "basename": "jQuery包装集对象与DOM对象",
+      "path": "001~编程学习/前端/jQuery/jQuery包装集对象与DOM对象.md"
+    },
+    {
+      "basename": "jQuery的插件机制",
+      "path": "001~编程学习/前端/jQuery/jQuery的插件机制.md"
+    },
+    {
+      "basename": "jQuery的一些静态方法",
+      "path": "001~编程学习/前端/jQuery/jQuery的一些静态方法.md"
+    },
+    {
+      "basename": "C++函数传参相关",
+      "path": "001~编程学习/C&C++/C++函数传参相关.md"
+    },
+    {
+      "basename": "Python基础笔记",
+      "path": "001~编程学习/Python/Python基础笔记.md"
     },
     {
       "basename": "JS函数的参数传递",
       "path": "001~编程学习/前端/03~JavaScript/JS函数的参数传递.md"
-    },
-    {
-      "basename": "010~导航守卫",
-      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/010~导航守卫.md"
-    },
-    {
-      "basename": "012~过渡动效",
-      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/012~过渡动效.md"
-    },
-    {
-      "basename": "011~路由元信息",
-      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/011~路由元信息.md"
-    },
-    {
-      "basename": "005~命名路由",
-      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/005~命名路由.md"
-    },
-    {
-      "basename": "008~路由组件传参",
-      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/008~路由组件传参.md"
-    },
-    {
-      "basename": "Vue相关",
-      "path": "网址收藏/Vue相关.md"
-    },
-    {
-      "basename": "001~VueRouter的引入",
-      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/001~VueRouter的引入.md"
     },
     {
       "basename": "016~导航故障",
@@ -69,8 +257,24 @@
       "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/013~数据获取.md"
     },
     {
+      "basename": "012~过渡动效",
+      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/012~过渡动效.md"
+    },
+    {
+      "basename": "011~路由元信息",
+      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/011~路由元信息.md"
+    },
+    {
+      "basename": "010~导航守卫",
+      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/010~导航守卫.md"
+    },
+    {
       "basename": "009~HTML5 History 模式",
       "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/009~HTML5 History 模式.md"
+    },
+    {
+      "basename": "008~路由组件传参",
+      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/008~路由组件传参.md"
     },
     {
       "basename": "007~重定向 & 别名",
@@ -79,6 +283,10 @@
     {
       "basename": "006~命名视图",
       "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/006~命名视图.md"
+    },
+    {
+      "basename": "005~命名路由",
+      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/005~命名路由.md"
     },
     {
       "basename": "004~编程式导航",
@@ -93,12 +301,72 @@
       "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/002~动态路由匹配.md"
     },
     {
-      "basename": "Obsidian相关网站、资料",
-      "path": "003~软件使用/笔记工具/Obsidian/Obsidian相关网站、资料.md"
+      "basename": "001~VueRouter的引入",
+      "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/001~VueRouter的引入.md"
     },
     {
       "basename": "闭包",
       "path": "001~编程学习/前端/03~JavaScript/闭包.md"
+    },
+    {
+      "basename": "JSX与渲染函数",
+      "path": "001~编程学习/前端/视图框架/Vue/Vue2/JSX与渲染函数.md"
+    },
+    {
+      "basename": "货主新pc相关wiki",
+      "path": "000~工作/项目/货主新pc/货主新pc相关wiki.md"
+    },
+    {
+      "basename": "MITT",
+      "path": "001~编程学习/前端/发布订阅/MITT.md"
+    },
+    {
+      "basename": "PubSubJS",
+      "path": "001~编程学习/前端/发布订阅/PubSubJS.md"
+    },
+    {
+      "basename": "Obsidian相关网站、资料",
+      "path": "003~软件使用/笔记工具/Obsidian/Obsidian相关网站、资料.md"
+    },
+    {
+      "basename": "货主新pc~Jenkins",
+      "path": "000~工作/项目/货主新pc/货主新pc~Jenkins.md"
+    },
+    {
+      "basename": "001~Vite基本使用",
+      "path": "001~编程学习/前端/构建&打包/Vite/001~Vite基本使用.md"
+    },
+    {
+      "basename": "Vue相关",
+      "path": "网址收藏/Vue相关.md"
+    },
+    {
+      "basename": "Rust语言设计",
+      "path": "001~编程学习/Rust/Rust语言设计.md"
+    },
+    {
+      "basename": "pre1的Jenkins",
+      "path": "000~工作/Jenkins/pre1的Jenkins.md"
+    },
+    {
+      "basename": "测试环境Jenkins",
+      "path": "000~工作/Jenkins/测试环境Jenkins.md"
+    },
+    {
+      "basename": "货主新pc~账号",
+      "path": "000~工作/项目/货主新pc/货主新pc~账号.md"
+    },
+    {
+      "basename": "TEST",
+      "path": "000/TEST.md"
+    },
+    {
+      "basename": "apache-commons-library",
+      "path": "001~编程学习/Java/通用工具/apache-commons/apache-commons-library.md"
+    },
+    {
+      "basename": "组件之间传递数据的方式",
+      "path": "001~编程学习/前端/视图框架/Vue/Vue2/组件之间传递数据的方式.md"
     },
     {
       "basename": "对象类型",
@@ -109,76 +377,8 @@
       "path": "001~编程学习/前端/视图框架/Vue/Vue2/provide 与 inject.md"
     },
     {
-      "basename": "JSX与渲染函数",
-      "path": "001~编程学习/前端/视图框架/Vue/Vue2/JSX与渲染函数.md"
-    },
-    {
-      "basename": "组件之间传递数据的方式",
-      "path": "001~编程学习/前端/视图框架/Vue/Vue2/组件之间传递数据的方式.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "000~INBOX/未命名.md"
-    },
-    {
-      "basename": "TEST",
-      "path": "000~INBOX/TEST.md"
-    },
-    {
-      "basename": "WMS一期优化需求",
-      "path": "000~WORK/项目/WMS/WMS一期优化需求.md"
-    },
-    {
-      "basename": "货主新pc相关wiki",
-      "path": "000~WORK/WIKI/货主新pc相关wiki.md"
-    },
-    {
-      "basename": "pre1的Jenkins",
-      "path": "000~WORK/Jenkins/pre1的Jenkins.md"
-    },
-    {
-      "basename": "测试环境Jenkins",
-      "path": "000~WORK/Jenkins/测试环境Jenkins.md"
-    },
-    {
-      "basename": "PubSubJS",
-      "path": "001~编程学习/前端/发布订阅/PubSubJS.md"
-    },
-    {
-      "basename": "MITT",
-      "path": "001~编程学习/前端/发布订阅/MITT.md"
-    },
-    {
-      "basename": "5.04.02",
-      "path": "000~WORK/版本任务/5.04.02.md"
-    },
-    {
-      "basename": "账号",
-      "path": "000~WORK/项目/新货主/账号.md"
-    },
-    {
-      "basename": "001~Vite基本使用",
-      "path": "001~编程学习/前端/构建&打包/Vite/001~Vite基本使用.md"
-    },
-    {
       "basename": "Obsidian搜索的技巧",
       "path": "003~软件使用/笔记工具/Obsidian/Obsidian搜索的技巧.md"
-    },
-    {
-      "basename": "5.05.01",
-      "path": "000~WORK/版本任务/5.05.01.md"
-    },
-    {
-      "basename": "5.05.03",
-      "path": "000~WORK/版本任务/5.05.03.md"
-    },
-    {
-      "basename": "DailyNote",
-      "path": "obsidian-assets/templates/DailyNote.md"
-    },
-    {
-      "basename": "C++函数传参相关",
-      "path": "001~编程学习/C&C++/C++函数传参相关.md"
     }
   ],
   "omittedPaths": [],

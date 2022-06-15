@@ -6,10 +6,13 @@
   "attachmentFolderPath": "obsidian-assets/attachments",
   "promptDelete": true,
   "newLinkFormat": "absolute",
-  "userIgnoreFilters": null,
+  "userIgnoreFilters": [
+    "logseq",
+    "pages/"
+  ],
   "alwaysUpdateLinks": true,
   "trashOption": "local",
   "newFileLocation": "folder",
-  "newFileFolderPath": "000~INBOX",
+  "newFileFolderPath": "000",
   "strictLineBreaks": true
 }

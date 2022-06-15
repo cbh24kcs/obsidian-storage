@@ -1,6 +1,9 @@
 {
-  "baseFontSize": 15,
+  "baseFontSize": 16,
   "translucency": false,
   "theme": "obsidian",
-  "cssTheme": "Minimal"
+  "cssTheme": "Blue Topaz",
+  "enabledCssSnippets": [
+    "王丙祎常用高亮颜色"
+  ]
 }

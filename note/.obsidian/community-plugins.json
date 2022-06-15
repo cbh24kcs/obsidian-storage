@@ -16,5 +16,8 @@
   "quick-explorer",
   "cmenu-plugin",
   "obsidian-emoji-toolbar",
-  "note-refactor-obsidian"
+  "note-refactor-obsidian",
+  "highlightr-plugin",
+  "extract-highlights-plugin",
+  "obsidian-kanban"
 ]

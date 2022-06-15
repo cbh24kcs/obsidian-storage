@@ -50,11 +50,16 @@
       "id": "cmenu-plugin:editor:insert-link",
       "name": "cMenu: Insert markdown link",
       "icon": "link-glyph"
+    },
+    {
+      "id": "obsidian-git:push",
+      "name": "Obsidian Git: Create backup",
+      "icon": "horizontal-split"
     }
   ],
   "appendMethod": "body",
   "shouldShowMenuOnSelect": false,
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
-  "cMenuNumRows": 10
+  "cMenuNumRows": 12
 }
