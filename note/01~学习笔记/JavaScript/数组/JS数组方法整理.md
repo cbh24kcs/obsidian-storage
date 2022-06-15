@@ -1,117 +1,44 @@
 # 快速总结
 
 # 声明数组
-- **空数组
-     - let arr = new Array ( );
-     - let arr = [ ]; <font color = grey>字面量创建</font>
-- **指定length
-     - let arr = Array (3); 
-- **指定数组元素
-     - let arr = [1, 2, 3, 4, 5];
-     - let arr = ("apple"); <font color = grey>如为单个数字参数则可能同指定length方式</font>
-- <b><font color = yellow>ES6新增创建数组的静态方法</font></b>
-    - Array.from ( ); 
-
--   from ( )
-    
-    > array.from ( ) 的第一个参数是一个类数组对象，即任何可迭代的结构，或者有一个length属性和可索引元素额度结果。可以用于很多场合：
-    
-    -   **字符串**会被拆分为单字符数组
-        
-    -   可以使用from ( ) 将集合和映射转换成为一个新数组
-        
-    -   Array.from ( ) 对现有数组执行**浅复制**
-        
-        ```jsx
-        const a1 = [1, 2, 3, 4];
-        const a2 = Array.from (a1);
-        console.log (a1); // [1, 2, 3, 4]
-        alert(a1 === a2); // false
-        ```
-        
-    -   可以使用任何可迭代对象
-        
-    -   **argumenets**对象可以被轻松地转换为数组
-        
-    -   from ( ) 也能转换带有必要属性的自定义对象
-        
-    -   Array.from ( ) 还接受第二个可选地映射函数参数。这个函数可以直接增强新数组的值，而无须像调用 Array.from().map() 那样先创建一个中间数组。还可以接受第三个可选参数，用于指定映射函数中this的值。**但这个重写的this值在箭头函数中不适用。**
-        
--   Array.of ()
-    
-    -   可以把一组参数转换为数组。（**可替代ES6之前的Array.prototype.slice.call (arguments)**)
-
-# 数组空位
-
-```jsx
-const options = [, , , , ,] // 创建包含5个元素的数组
-```
-
-**可以使用逗号创建空位**
-
-**ES6新增方法**普遍将这些空位当成存在元素，只不过值为**undefined**。
-
-**ES6之前的方法**则会**忽略这个空位**。但具体行为也会因方法而异。
-
-**实践中避免使用数组空位。可以使用undefined值替代。**
-
-# 数组索引
-
-要取得或设置数组的值，需要使用中括号并提供相应值的索引
-
--   如果把一个值设置给超过数组最大的索引的索引，则数组长度会自动扩展到该索引值加1
-    
-    ```jsx
-    let a = [1, 2, 3];
-    a[3] = 4; // 添加第四项
-    ```
-    
-
-length属性表示元素数量（**length属性非只读，修改length可在末尾添加或删除元素**）
+- <b><font color = orange>空数组</font></b>
+    - *let arr = new Array ( );
+    - *let arr = [ ];    <font color = grey>字面量创建</font>
+- <b><font color = orange>指定length</font></b>
+    - *let arr = Array (3);*   <font color = yellow>数组的length属性非只读，可以通过修改length从末尾增加/删除元素</font>
+- <b><font color = orange>指定数组元素</font></b>
+     - *let arr = [1, 2, 3, 4];*    <font color = grey>如为单个数字参数则可能同指定length的创建方式</font>
+- <b><font color = orange>ES6新增创建数组的静态方法</font></b>
+    - *Array.from ( <font color = grey size = 2>类数组对象</font>, <font color =grey size = 2>映射函数参数 [可选]</font>, <font color = grey size =2>指定映射函数中this的值 [可选]</font>);  
+         - 将类数组结构转换为数组实例，<font color = yellow>重写的this值在箭头函数中不适用</font>
+    - *Array.of ( );  
+         - 将一组参数转换为数组实例。可用于替代*Array.prototype.slice.call(arguments)
 
 # 检测数组
-
-Array.isArray ( )
+- *Array.isArray ( )
 
 # 迭代器
+- <b><font color = orange>Array原型检索数组内容方法</font></b> #原型 
+     - *keys ( );*       <font color = grey>返回数组索引的迭代器</font>
+     - *values ( );*    <font color = grey>返回数组元素的迭代器</font>
+     - *entries ( );*   <font color = grey>返回索引/值对应的迭代器 </font>
 
-**Array的原型**上用于**检索数组内容**的方法
+# 方法整理
+- <b><font color = orange>复制及填充</font></b>
+    - *fill  ( <font color = grey size = 2>需填充元素</font>, <font color =grey size = 2>开始填充索引位置 [可选]</font>, <font color = grey size =2>结束填充索引位置 [可选]</font>);*   指定元素填充
+    - *copyWithin ( <font color = grey size = 2>插入位置</font>, <font color =grey size = 2>开始复制索引位置 [可选]</font>, <font color = grey size =2>结束复制索引位置 [可选]</font>);*  批量进行浅复制，并将结果填充至指定位置。
+- <b><font color = orange>转换</font></b>
 
--   keys ( )
-    -   返回数组索引的迭代器
--   values ( )
-    -   返回元素索引的迭代器
--   entries ( )
-    -   反馈索引/值对应的迭代器
 
-```jsx
-const a = ["b", "c", "d", "e"];
-const aKeys = Array.from (a.keys());
-const aValues = Array.from (a.values ());
-const aEntries = Array.from (a.entries());
-console.log (akeys); // [0, 1, 2, 3]
-console.log (aValues); // ["b", "c", "d", "e"]
-console.log (aEntries); // [0, "b"], [1, "c"], [2, "d"], [3, "e"]
-```
 
-## 复制和填充
 
--   填充数组 fill ( )
-    
-    -   可以向一个已有的数组插入全部或部分相同的值。
-    -   开始位置可选，不提供结束索引，则一直填充到数组末尾。负值索引从数组末尾开始计算。
-    
-    ```jsx
-    const a = [0, 0, 0, 0, 0]
-    a.fill (填充值，开始填充索引位置，结束填充索引位置)
-    a.fill (5) // 不指定，用5填充整个数组
-    ```
-    
--   批量复制 copyWithin ( )
-    
-    -   会按照指定范围**浅复制**指数组中的部分内容，然后将它们插入到指定索引开始的位置。开始索引和结束索引与fill ( )方法一致。
 
-**fill ( ) / copyWithin ( ) 静默会略超出数组边界、零长度及方向相反的索引范围，部分可用则填充部分可用部分。**
+
+
+
+
+
+
 
 ## 转换方法
 
@@ -265,3 +192,103 @@ console.log (aEntries); // [0, "b"], [1, "c"], [2, "d"], [3, "e"]
 
 
 
+
+
+
+
+
+
+
+**数组方法**
+
+-   **遍历**
+    
+    -   **arr.forEach(回调, 回调的this)**
+        -   已删除或者未初始化的项将被跳过（例如在稀疏数组上）
+        -   除了抛出异常以外，没有办法中止或跳出 `forEach()` 循环。如果你需要中止或跳出循环，`forEach()` 方法不是应当使用的工具。
+-   **队列方法**
+    
+    -   **push(...items)**：在末端添加一个元素
+        
+    -   **pop()**：从末端取出一个元素
+        
+    -   **unshift(...items)**：在数组的首端添加元素
+        
+    -   **shift()**：取出队列首端的一个元素，整个队列往前移
+        
+    -   注：添加操作会返回添加的索引，删除操作会返回删除的元素
+        
+    -   **性能比较：**`push/pop` 方法运行的比较快，而 `shift/unshift` 比较慢
+        
+        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cc23cbed-6dec-4942-8a2e-1ce1772d2834/Untitled.png)
+        
+-   **子数组**：
+    
+    -   **arr.slice([start], [end])**
+        -   将所有从索引 `start` 到 `end`（不包括 `end`）的数组项复制到一个**新的数组**
+        -   `start` 和 `end` 都可以是负数，在这种情况下，从末尾计算索引
+-   **拼接**：
+    
+    -   **arr.concat(arg1, arg2...)**
+        -   创建一个新数组，其中包含来自于其他数组和其他项的值
+-   **先删除后添加**：
+    
+    -   **arr.splice(开始操作的位置, 要删除的个数, 后面的都是要插入的元素...)**
+        -   从索引 `start` 开始修改 `arr`，删除 `deleteCount` 个元素
+        -   并在当前位置插入 `elem1, ..., elemN`
+        -   最后返回已**被删除元素的数组**
+        -   注：在这里和其他数组方法中，负向索引都是被允许的。它们从数组末尾计算位置
+-   **查找**
+    
+    -   **arr.indexOf(要查找的元素, 开始查找的位置)**
+    -   **arr.lastIndexOf(要查找的元素, 开始查找的位置)**
+    -   **arr.includes(要查找的元素, 开始查找的位置) 【ES7】**
+        -   includes能找到NaN，但是indexOf找不到NaN
+        -   includes内部使用了`Number.isNaN`对`NaN`进行了匹配
+    -   **arr.find(回调, 回调的this)**
+        -   回调函数的参数：**当前元素,当前索引,数组本身**（其他有回调函数的基本也是这个样子）
+        -   thisArg：回调内部使用的this（有了箭头函数之后一般也不用了）
+    -   **_arr_.findIndex(回调, 回调的this)**
+    -   **新的数组 = arr.filter(回调, 回调的this)**
+-   **转换**
+    
+    -   **填充**
+        -   **arr.fill(填充值, 起始, 终止)** 填充指定值，返回修改后的数组
+    -   **映射**
+        -   **新的数组 = arr.map(回调, 回调的this)**
+    -   **排序**
+        -   **arr.sort(比较函数(第一个元素, 第二个元素))**
+            -   比较函数返回值 < 0，则第一个元素在前面，>0则第二个元素在前面
+            -   比较函数必须总是对相同的输入返回相同的比较结果，否则排序的结果将是不确定的。
+            -   排序后的数组。请注意，数组已原地排序，并且不进行复制！
+    -   **翻转**
+        -   **arr.reverse()** 颠倒数组中元素的位置，改变了数组，并返回该数组的引用
+    -   **合并**
+        -   **arr.join(分隔符=',')**
+    -   **打平**
+        -   **新的数组 = arr.flat(深度) 【ES10】**
+            -   可以传参数，参数为降维的次数
+            -   如果传的是一个无限大的数字，那么就实现了多维数组(无论几维)降为一维数组
+        -   **新的数组 = arr.flatMap(回调, 回调的this) 【ES10】**
+            -   相当于 map + flat
+            -   一个新的数组，其中每个元素都是回调函数的结果，并且结构深度 `depth` 值为1
+    -   **归约**
+        -   **reduce(function(累计器, 当前值, 当前索引, 原数组), 初始值)**
+            -   回调函数的返回值会被分配给下一次调用回调时候的累计器
+            -   结束时，累计器中的值就是结果值
+        -   **reduceRight(function(累计器, 当前值, 当前索引, 原数组), 初始值)**
+            -   与reduce相同，不过执行的顺序是从右到左
+    -   **拷贝**
+        -   **arr.copyWithin(target, start, end)**
+            -   将从位置 `start` 到 `end` 的所有元素复制到 **自身** 的 `target` 位置（覆盖现有元素）
+-   **判断**
+    
+    -   **arr.some(回调, 回调的this)**
+        -   数组中有至少一个元素通过回调函数的测试就会返回**`true`**
+        -   所有元素都没有通过回调函数的测试返回值才会为`false`
+    -   **arr.every(回调, 回调的this)**
+        -   如果回调函数的每一次返回都为true，返回 true ，否则返回 false
+    -   **Array.isArray(要判断的东西)**
+        -   判断是不是数组
+        -   数组是基于对象的，不构成单独的语言类型
+        -   所以 `typeof` 不能帮助从数组中区分出普通对象

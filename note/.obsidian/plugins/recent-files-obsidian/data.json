@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-15",
+      "path": "obsidian-assets/daily-note/2022-06-15.md"
+    },
+    {
       "basename": "JS数组方法整理",
       "path": "01~学习笔记/JavaScript/数组/JS数组方法整理.md"
+    },
+    {
+      "basename": "2022-06-13",
+      "path": "obsidian-assets/daily-note/2022-06-13.md"
     },
     {
       "basename": "JS函数的参数传递方式",
@@ -85,10 +93,6 @@
       "path": "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/002~动态路由匹配.md"
     },
     {
-      "basename": "2022-06-13",
-      "path": "obsidian-assets/daily-note/2022-06-13.md"
-    },
-    {
       "basename": "Obsidian相关网站、资料",
       "path": "003~软件使用/笔记工具/Obsidian/Obsidian相关网站、资料.md"
     },
@@ -119,10 +123,6 @@
     {
       "basename": "TEST",
       "path": "000~INBOX/TEST.md"
-    },
-    {
-      "basename": "2022-06-15",
-      "path": "obsidian-assets/daily-note/2022-06-15.md"
     },
     {
       "basename": "WMS一期优化需求",

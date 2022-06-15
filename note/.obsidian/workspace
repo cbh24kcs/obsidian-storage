@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01~学习笔记/JavaScript/数组/JS数组方法整理.md",
+            "file": "obsidian-assets/daily-note/2022-06-15.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01~学习笔记/JavaScript/数组/JS数组方法整理.md"
+                "file": "obsidian-assets/daily-note/2022-06-15.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01~学习笔记/JavaScript/数组/JS数组方法整理.md",
+                "file": "obsidian-assets/daily-note/2022-06-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01~学习笔记/JavaScript/数组/JS数组方法整理.md",
+                "file": "obsidian-assets/daily-note/2022-06-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,15 +146,15 @@
   },
   "active": "615728b65114fb79",
   "lastOpenFiles": [
+    "obsidian-assets/daily-note/2022-06-15.md",
     "01~学习笔记/JavaScript/数组/JS数组方法整理.md",
+    "obsidian-assets/daily-note/2022-06-13.md",
     "01~学习笔记/JavaScript/函数/JS函数的参数传递方式.md",
     "obsidian-assets/daily-note/2022-06-14.md",
     "001~编程学习/前端/03~JavaScript/JS函数的参数传递.md",
     "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/010~导航守卫.md",
     "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/012~过渡动效.md",
     "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/011~路由元信息.md",
-    "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/005~命名路由.md",
-    "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/008~路由组件传参.md",
-    "网址收藏/Vue相关.md"
+    "001~编程学习/前端/视图框架/Vue/VueRouter/V3官方/005~命名路由.md"
   ]
 }
