@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "VUE2",
+      "path": "01~学习笔记/Vue/VUE2.md"
+    },
+    {
       "basename": "函数",
       "path": "01~学习笔记/JavaScript/函数/函数.md"
     },
@@ -395,10 +399,6 @@
     {
       "basename": "provide 与 inject",
       "path": "001~编程学习/前端/视图框架/Vue/Vue2/provide 与 inject.md"
-    },
-    {
-      "basename": "Obsidian搜索的技巧",
-      "path": "003~软件使用/笔记工具/Obsidian/Obsidian搜索的技巧.md"
     }
   ],
   "omittedPaths": [],
