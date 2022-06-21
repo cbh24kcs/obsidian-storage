@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01~学习笔记/Vue/VUE2.md",
+            "file": "01~学习笔记/JavaScript/函数/函数.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01~学习笔记/Vue/VUE2.md"
+                "file": "01~学习笔记/JavaScript/函数/函数.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01~学习笔记/Vue/VUE2.md",
+                "file": "01~学习笔记/JavaScript/函数/函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01~学习笔记/Vue/VUE2.md",
+                "file": "01~学习笔记/JavaScript/函数/函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +163,9 @@
   },
   "active": "630de1d8843217b7",
   "lastOpenFiles": [
-    "01~学习笔记/Vue/VUE2.md",
     "01~学习笔记/JavaScript/函数/函数.md",
     "obsidian-assets/daily-note/2022-06-21.md",
+    "01~学习笔记/Vue/VUE2.md",
     "01~学习笔记/JavaScript/数组/JS数组方法整理.md",
     "01~学习笔记/CSS/绝对定位.md",
     "obsidian-assets/daily-note/2022-06-16.md",
