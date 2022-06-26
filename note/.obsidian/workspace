@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obsidian-assets/daily-note/2022-06-26.md",
+            "file": "01~学习笔记/JavaScript/对象、原型、类/对象、类与面向对象编程.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-assets/daily-note/2022-06-26.md"
+                "file": "01~学习笔记/JavaScript/对象、原型、类/对象、类与面向对象编程.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-assets/daily-note/2022-06-26.md",
+                "file": "01~学习笔记/JavaScript/对象、原型、类/对象、类与面向对象编程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-assets/daily-note/2022-06-26.md",
+                "file": "01~学习笔记/JavaScript/对象、原型、类/对象、类与面向对象编程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,13 +163,13 @@
   },
   "active": "630de1d8843217b7",
   "lastOpenFiles": [
+    "01~学习笔记/JavaScript/对象、原型、类/对象、类与面向对象编程.md",
     "obsidian-assets/daily-note/2022-06-26.md",
     "obsidian-assets/daily-note/2022-06-21.md",
     "obsidian-assets/daily-note/2022-06-22.md",
     "obsidian-assets/daily-note/2022-06-24.md",
     "未命名.md",
     "2022-W24.md",
-    "01~学习笔记/JavaScript/对象、原型、类/对象、类与面向对象编程.md",
     "01~学习笔记/JavaScript/函数/JS函数的参数传递方式.md",
     "01~学习笔记/Vue/VUE2.md",
     "01~学习笔记/JavaScript/函数/函数.md"
