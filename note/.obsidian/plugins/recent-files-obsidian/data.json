@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-26",
+      "path": "obsidian-assets/daily-note/2022-06-26.md"
+    },
+    {
+      "basename": "2022-06-21",
+      "path": "obsidian-assets/daily-note/2022-06-21.md"
+    },
+    {
+      "basename": "2022-06-22",
+      "path": "obsidian-assets/daily-note/2022-06-22.md"
+    },
+    {
+      "basename": "2022-06-24",
+      "path": "obsidian-assets/daily-note/2022-06-24.md"
+    },
+    {
+      "basename": "2022-W24",
+      "path": "2022-W24.md"
+    },
+    {
       "basename": "对象、类与面向对象编程",
       "path": "01~学习笔记/JavaScript/对象、原型、类/对象、类与面向对象编程.md"
     },
@@ -9,20 +29,12 @@
       "path": "01~学习笔记/JavaScript/函数/JS函数的参数传递方式.md"
     },
     {
-      "basename": "2022-06-22",
-      "path": "obsidian-assets/daily-note/2022-06-22.md"
-    },
-    {
       "basename": "VUE2",
       "path": "01~学习笔记/Vue/VUE2.md"
     },
     {
       "basename": "函数",
       "path": "01~学习笔记/JavaScript/函数/函数.md"
-    },
-    {
-      "basename": "2022-06-21",
-      "path": "obsidian-assets/daily-note/2022-06-21.md"
     },
     {
       "basename": "JS数组方法整理",
@@ -39,10 +51,6 @@
     {
       "basename": "2022-06-15",
       "path": "obsidian-assets/daily-note/2022-06-15.md"
-    },
-    {
-      "basename": "2022-W24",
-      "path": "2022-W24.md"
     },
     {
       "basename": "DailyNote",
@@ -391,14 +399,6 @@
     {
       "basename": "TEST",
       "path": "000/TEST.md"
-    },
-    {
-      "basename": "apache-commons-library",
-      "path": "001~编程学习/Java/通用工具/apache-commons/apache-commons-library.md"
-    },
-    {
-      "basename": "组件之间传递数据的方式",
-      "path": "001~编程学习/前端/视图框架/Vue/Vue2/组件之间传递数据的方式.md"
     }
   ],
   "omittedPaths": [],
