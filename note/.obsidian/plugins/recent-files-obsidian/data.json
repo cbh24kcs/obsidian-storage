@@ -5,6 +5,10 @@
       "path": "01~学习笔记/JavaScript/对象、原型、类/对象、类与面向对象编程.md"
     },
     {
+      "basename": "2022-06-27",
+      "path": "obsidian-assets/daily-note/2022-06-27.md"
+    },
+    {
       "basename": "2022-06-26",
       "path": "obsidian-assets/daily-note/2022-06-26.md"
     },
@@ -395,10 +399,6 @@
     {
       "basename": "货主新pc~账号",
       "path": "000~工作/项目/货主新pc/货主新pc~账号.md"
-    },
-    {
-      "basename": "TEST",
-      "path": "000/TEST.md"
     }
   ],
   "omittedPaths": [],
