@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "JS数组方法整理",
+      "path": "01~学习笔记/JavaScript/数组/JS数组方法整理.md"
+    },
+    {
+      "basename": "JS函数的参数传递方式",
+      "path": "01~学习笔记/JavaScript/函数/JS函数的参数传递方式.md"
+    },
+    {
+      "basename": "函数",
+      "path": "01~学习笔记/JavaScript/函数/函数.md"
+    },
+    {
       "basename": "对象、类与面向对象编程",
       "path": "01~学习笔记/JavaScript/对象、原型、类/对象、类与面向对象编程.md"
     },
@@ -29,20 +41,8 @@
       "path": "2022-W24.md"
     },
     {
-      "basename": "JS函数的参数传递方式",
-      "path": "01~学习笔记/JavaScript/函数/JS函数的参数传递方式.md"
-    },
-    {
       "basename": "VUE2",
       "path": "01~学习笔记/Vue/VUE2.md"
-    },
-    {
-      "basename": "函数",
-      "path": "01~学习笔记/JavaScript/函数/函数.md"
-    },
-    {
-      "basename": "JS数组方法整理",
-      "path": "01~学习笔记/JavaScript/数组/JS数组方法整理.md"
     },
     {
       "basename": "绝对定位",
