@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-29",
+      "path": "obsidian-assets/daily-note/2022-06-29.md"
+    },
+    {
       "basename": "2022-06-27",
       "path": "obsidian-assets/daily-note/2022-06-27.md"
     },
@@ -395,10 +399,6 @@
     {
       "basename": "测试环境Jenkins",
       "path": "000~工作/Jenkins/测试环境Jenkins.md"
-    },
-    {
-      "basename": "货主新pc~账号",
-      "path": "000~工作/项目/货主新pc/货主新pc~账号.md"
     }
   ],
   "omittedPaths": [],
