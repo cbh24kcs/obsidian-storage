@@ -47,17 +47,17 @@
 		- 按照升序排列
 		- 会在每一项上调用 `string ( )` 转型函数，转换为字符串比较。 *==（数值可能不按数值升序排列）==*
 		- 可以接收一个比较函数，判断哪个值应该放在前面
-		- *==数组原地排序，不进行复制
-		```jsx
-		function compare (value1, value2) {
-			if (value1 < value2) {
-				return 1;
-			} else if {value1 > value2) {
-				return -1
-			} else {
-			    return 0;
-			}
-	    }
+		- *==数组原地排序，不进行复制==*
+	```jsx
+	function compare (value1, value2) {
+		if (value1 < value2) {
+			return 1;
+		} else if {value1 > value2) {
+			return -1
+		} else {
+			return 0;
+		}
+	}
     
     let values = [0,1,5,10,15]
     values.sort (compare);
