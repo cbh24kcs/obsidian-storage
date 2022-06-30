@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-07-01",
+      "path": "obsidian-assets/daily-note/2022-07-01.md"
+    },
+    {
       "basename": "对象、类与面向对象编程",
       "path": "01~学习笔记/JavaScript/对象、原型、类/对象、类与面向对象编程.md"
     },
@@ -395,10 +399,6 @@
     {
       "basename": "pre1的Jenkins",
       "path": "000~工作/Jenkins/pre1的Jenkins.md"
-    },
-    {
-      "basename": "测试环境Jenkins",
-      "path": "000~工作/Jenkins/测试环境Jenkins.md"
     }
   ],
   "omittedPaths": [],
