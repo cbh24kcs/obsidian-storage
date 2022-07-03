@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "vue-router-v3 官方文档阅读",
+      "path": "01~学习笔记/Vue/Vue-Router/vue-router-v3/vue-router-v3 官方文档阅读.md"
+    },
+    {
+      "basename": "不用VueRouter实现组件切换",
+      "path": "01~学习笔记/Vue/Vue-Router/不用VueRouter实现组件切换.md"
+    },
+    {
+      "basename": "VUE2",
+      "path": "01~学习笔记/Vue/VUE2.md"
+    },
+    {
       "basename": "2022-07-03",
       "path": "obsidian-assets/daily-note/2022-07-03.md"
     },
@@ -51,10 +63,6 @@
     {
       "basename": "2022-W24",
       "path": "2022-W24.md"
-    },
-    {
-      "basename": "VUE2",
-      "path": "01~学习笔记/Vue/VUE2.md"
     },
     {
       "basename": "绝对定位",
@@ -391,14 +399,6 @@
     {
       "basename": "001~Vite基本使用",
       "path": "001~编程学习/前端/构建&打包/Vite/001~Vite基本使用.md"
-    },
-    {
-      "basename": "Vue相关",
-      "path": "网址收藏/Vue相关.md"
-    },
-    {
-      "basename": "Rust语言设计",
-      "path": "001~编程学习/Rust/Rust语言设计.md"
     }
   ],
   "omittedPaths": [],
