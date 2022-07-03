@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-07-03",
+      "path": "obsidian-assets/daily-note/2022-07-03.md"
+    },
+    {
       "basename": "2022-07-01",
       "path": "obsidian-assets/daily-note/2022-07-01.md"
     },
@@ -395,10 +399,6 @@
     {
       "basename": "Rust语言设计",
       "path": "001~编程学习/Rust/Rust语言设计.md"
-    },
-    {
-      "basename": "pre1的Jenkins",
-      "path": "000~工作/Jenkins/pre1的Jenkins.md"
     }
   ],
   "omittedPaths": [],
