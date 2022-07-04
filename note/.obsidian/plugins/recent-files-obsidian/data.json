@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "2022-07-05",
-      "path": "obsidian-assets/daily-note/2022-07-05.md"
+      "basename": "JS数组方法整理",
+      "path": "01~学习笔记/JavaScript/数组/JS数组方法整理.md"
+    },
+    {
+      "basename": "不用VueRouter实现组件切换",
+      "path": "01~学习笔记/Vue/Vue-Router/不用VueRouter实现组件切换.md"
     },
     {
       "basename": "vue-router-v3 官方文档阅读",
       "path": "01~学习笔记/Vue/Vue-Router/vue-router-v3/vue-router-v3 官方文档阅读.md"
     },
     {
-      "basename": "不用VueRouter实现组件切换",
-      "path": "01~学习笔记/Vue/Vue-Router/不用VueRouter实现组件切换.md"
+      "basename": "2022-07-05",
+      "path": "obsidian-assets/daily-note/2022-07-05.md"
     },
     {
       "basename": "VUE2",
@@ -31,10 +35,6 @@
     {
       "basename": "函数",
       "path": "01~学习笔记/JavaScript/函数/函数.md"
-    },
-    {
-      "basename": "JS数组方法整理",
-      "path": "01~学习笔记/JavaScript/数组/JS数组方法整理.md"
     },
     {
       "basename": "2022-06-27",
