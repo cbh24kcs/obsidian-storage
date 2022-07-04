@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-07-05",
+      "path": "obsidian-assets/daily-note/2022-07-05.md"
+    },
+    {
       "basename": "vue-router-v3 官方文档阅读",
       "path": "01~学习笔记/Vue/Vue-Router/vue-router-v3/vue-router-v3 官方文档阅读.md"
     },
@@ -395,10 +399,6 @@
     {
       "basename": "货主新pc~Jenkins",
       "path": "000~工作/项目/货主新pc/货主新pc~Jenkins.md"
-    },
-    {
-      "basename": "001~Vite基本使用",
-      "path": "001~编程学习/前端/构建&打包/Vite/001~Vite基本使用.md"
     }
   ],
   "omittedPaths": [],
