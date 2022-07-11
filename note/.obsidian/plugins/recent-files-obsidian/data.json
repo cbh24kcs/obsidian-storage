@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-07-11",
+      "path": "obsidian-assets/daily-note/2022-07-11.md"
+    },
+    {
       "basename": "对象、类与面向对象编程",
       "path": "01~学习笔记/JavaScript/对象、原型、类/对象、类与面向对象编程.md"
     },
@@ -395,10 +399,6 @@
     {
       "basename": "PubSubJS",
       "path": "001~编程学习/前端/发布订阅/PubSubJS.md"
-    },
-    {
-      "basename": "Obsidian相关网站、资料",
-      "path": "003~软件使用/笔记工具/Obsidian/Obsidian相关网站、资料.md"
     }
   ],
   "omittedPaths": [],

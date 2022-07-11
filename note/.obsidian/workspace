@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01~学习笔记/JavaScript/对象、原型、类/对象、类与面向对象编程.md",
+            "file": "obsidian-assets/daily-note/2022-07-11.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01~学习笔记/JavaScript/对象、原型、类/对象、类与面向对象编程.md"
+                "file": "obsidian-assets/daily-note/2022-07-11.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01~学习笔记/JavaScript/对象、原型、类/对象、类与面向对象编程.md",
+                "file": "obsidian-assets/daily-note/2022-07-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01~学习笔记/JavaScript/对象、原型、类/对象、类与面向对象编程.md",
+                "file": "obsidian-assets/daily-note/2022-07-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,6 +163,7 @@
   },
   "active": "630de1d8843217b7",
   "lastOpenFiles": [
+    "obsidian-assets/daily-note/2022-07-11.md",
     "01~学习笔记/JavaScript/对象、原型、类/对象、类与面向对象编程.md",
     "obsidian-assets/daily-note/2022-07-09.md",
     "01~学习笔记/JavaScript/数组/JS数组方法整理.md",
@@ -171,7 +172,6 @@
     "obsidian-assets/daily-note/2022-07-05.md",
     "01~学习笔记/Vue/VUE2.md",
     "obsidian-assets/daily-note/2022-07-03.md",
-    "obsidian-assets/daily-note/2022-07-01.md",
-    "01~学习笔记/JavaScript/函数/函数.md"
+    "obsidian-assets/daily-note/2022-07-01.md"
   ]
 }
