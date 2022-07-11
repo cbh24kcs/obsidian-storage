@@ -1,4 +1,3 @@
-#数组
 ## 快速总结
 
 ## 声明数组
@@ -15,7 +14,7 @@
 	* `Array.of ( );` 
 		* 将一组参数转换为数组实例。可用于替代 `Array.prototype.slice.call(arguments)`
 
- ## 检测数组
+ ## 检测数组 #isArray
 - `Array.isArray ( );`
 
 ## 迭代器
@@ -25,23 +24,23 @@
         - `entries ( );` 返回 *==索引/元素==* 的迭代器
 
 ## 方法整理
-- ### 复制及填充
+- ### 复制及填充 #fill #copyWithin
 	- `fill ([element], [start_选填], [end_选填]);`  从索引`start`至`end`批量填充/覆盖元素`element`
 	- `copyWithin ([index], [start_选填], [end_选填]);`  从索引`start`至`end`进行 *==浅复制==*，并将结果填充至指定索引位置`index`
-- ### 转换
+- ### 转换 
 	- `value of ( );`
 	- `toString ( );`
 	-  `alert ( );` 期待字符串，结果同 `toString ( )`
 	- `toLocaleString ( )`
 	- `join ( )` 修改数组分隔符
-- ### 栈/队列
-	- `push ( );` 数组末尾添加元素 #push 
-	- `pop ( );` 数组末尾删除元素  #pop 
-	- `shift ( );` 数组开头删除元素 #shift
-	- `unshift ( );` 数组开头添加元素 #unshift  
+- ### 栈/队列 #push #pop #shift #unshift  
+	- `push ( );` 数组末尾添加元素
+	- `pop ( );` 数组末尾删除元素
+	- `shift ( );` 数组开头删除元素
+	- `unshift ( );` 数组开头添加元素
 	- *==【TIPS 1】==* 以上方法删除元素返回被删除项，添加元素返回数组长度
 	- *==【TIPS 2】==* 性能比较： `push/pop` 方法运行的比较快，而 `shift/unshift` 比较慢
-- ### 排序
+- ### 排序 #reverse #soft
 	- `reverse ( );` 反向排序
 	- `soft ( );` 
 		- 按照升序排列
@@ -63,7 +62,7 @@
     values.sort (compare);
     alert (values); // 结果为0,1,5,10,15 调整compare函数也可做降序排列
     ```
-- ### 副本操作
+- ### 副本操作 #concat #slice #splice
 	- `concat ([parameter1], [parameter2]...)` 创建新数组，并将参数 `parameter` 插入新数组末尾
 	- `slice ([start], [end_选填])` 
 		- 将所有从索引 `start` 到 `end(不含)` 位置的数组项复制到新的数组副本中
@@ -71,21 +70,21 @@
 		- 从指定索引 `start` 处开始，删除指定个数 `deleteNumber` 元素,插入若干元素 `element`
 		- 返回 *==被删除元素组成的数组==*
 		- 支持负值索引，从末尾计算
-- ### 搜索
-	- `indexof ([element], [start]);` 从数组开头开始，找到则返回元素位置，没找到返回-1 #indexof
+- ### 搜索 #indexof #lastindexof #includes #find #findindex
+	- `indexof ([element], [start]);` 从数组开头开始，找到则返回元素位置，没找到返回-1 
 	- `lastindexof ([element], [start];` 从数组末尾开始，找到则返回元素位置，没找到返回-1
 	- `includes ([element], [start]);`  返回布尔值 *==ES7新增==*
 		- `includes` 能找到NaN，但是 `indexOf` 找不到NaN
 		- `includes` 内部使用了 `Number.isNaN` 对 `NaN` 进行了匹配
 	- `find ([回调], [回调的this]);` 返回第一个匹配的元素 #回调 
 	- `findindex ([回调], [回调的this]);` 返回找第一个匹配元素的索引 #回调
-- ### 迭代 #回调 
+- ### 迭代 #foreach #filter #foreach #map #some
 	- `every ( );` 对每一项运行函数，如果每一项都返回 `true`，则该方法返回 `true`
 	- `filter ( );` 对每一项运行函数，将结果为 `true` 的项组成数组后返回
-	- `foreach ( );` 对每一项运行函数，没有返回值
+	- `foreach ( );` 对每一项运行函数，没有返回值 
 	- `map ( );` 对每一项运行函数，返回由每次函数调用结果构成的数组
 	- `some ( );` 对每一项运行函数，如果有一项返回 `true` ,则返回 `true`
-- ### 归约 #回调 
+- ### 归约 #reduce #reduceRight
 	- `reduce ([prev], [cur], [index], [array])；` 
 		- `prev` :上一个归并值;  `cur`:当前项; `index` :当前项索引; `array` :数组本身;
 		- 每调用一次函数，结果返回给上一个归并值用以下次调用，最后一个归并值即为最终结果；
