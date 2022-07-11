@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obsidian-assets/daily-note/2022-07-11.md",
+            "file": "01~学习笔记/JavaScript/数组/JS数组方法整理.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#参数传递",
+                "query": "tag:#push",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "89d2ee7b4f487cf6",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-assets/daily-note/2022-07-11.md"
+                "file": "01~学习笔记/JavaScript/数组/JS数组方法整理.md"
               }
             }
           },
@@ -131,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-assets/daily-note/2022-07-11.md",
+                "file": "01~学习笔记/JavaScript/数组/JS数组方法整理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-assets/daily-note/2022-07-11.md",
+                "file": "01~学习笔记/JavaScript/数组/JS数组方法整理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,15 +165,15 @@
   },
   "active": "630de1d8843217b7",
   "lastOpenFiles": [
+    "01~学习笔记/JavaScript/数组/JS数组方法整理.md",
+    "01~学习笔记/小技巧/数组去重.md",
+    "01~学习笔记/JavaScript/函数/函数.md",
+    "01~学习笔记/小技巧/防抖函数.md",
+    "01~学习笔记/小技巧/节流函数.md",
+    "01~学习笔记/未命名.md",
     "obsidian-assets/daily-note/2022-07-11.md",
     "01~学习笔记/JavaScript/对象、原型、类/对象、类与面向对象编程.md",
     "obsidian-assets/daily-note/2022-07-09.md",
-    "01~学习笔记/JavaScript/数组/JS数组方法整理.md",
-    "01~学习笔记/Vue/Vue-Router/不用VueRouter实现组件切换.md",
-    "01~学习笔记/Vue/Vue-Router/vue-router-v3/vue-router-v3 官方文档阅读.md",
-    "obsidian-assets/daily-note/2022-07-05.md",
-    "01~学习笔记/Vue/VUE2.md",
-    "obsidian-assets/daily-note/2022-07-03.md",
-    "obsidian-assets/daily-note/2022-07-01.md"
+    "01~学习笔记/Vue/Vue-Router/不用VueRouter实现组件切换.md"
   ]
 }

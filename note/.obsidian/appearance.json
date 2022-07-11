@@ -3,7 +3,5 @@
   "translucency": false,
   "theme": "obsidian",
   "cssTheme": "Blue Topaz",
-  "enabledCssSnippets": [
-    "王丙祎常用高亮颜色"
-  ]
+  "enabledCssSnippets": []
 }

@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "JS数组方法整理",
+      "path": "01~学习笔记/JavaScript/数组/JS数组方法整理.md"
+    },
+    {
+      "basename": "数组去重",
+      "path": "01~学习笔记/小技巧/数组去重.md"
+    },
+    {
+      "basename": "函数",
+      "path": "01~学习笔记/JavaScript/函数/函数.md"
+    },
+    {
+      "basename": "防抖函数",
+      "path": "01~学习笔记/小技巧/防抖函数.md"
+    },
+    {
+      "basename": "节流函数",
+      "path": "01~学习笔记/小技巧/节流函数.md"
+    },
+    {
       "basename": "2022-07-11",
       "path": "obsidian-assets/daily-note/2022-07-11.md"
     },
@@ -11,10 +31,6 @@
     {
       "basename": "2022-07-09",
       "path": "obsidian-assets/daily-note/2022-07-09.md"
-    },
-    {
-      "basename": "JS数组方法整理",
-      "path": "01~学习笔记/JavaScript/数组/JS数组方法整理.md"
     },
     {
       "basename": "不用VueRouter实现组件切换",
@@ -39,10 +55,6 @@
     {
       "basename": "2022-07-01",
       "path": "obsidian-assets/daily-note/2022-07-01.md"
-    },
-    {
-      "basename": "函数",
-      "path": "01~学习笔记/JavaScript/函数/函数.md"
     },
     {
       "basename": "2022-06-27",
@@ -387,18 +399,6 @@
     {
       "basename": "JSX与渲染函数",
       "path": "001~编程学习/前端/视图框架/Vue/Vue2/JSX与渲染函数.md"
-    },
-    {
-      "basename": "货主新pc相关wiki",
-      "path": "000~工作/项目/货主新pc/货主新pc相关wiki.md"
-    },
-    {
-      "basename": "MITT",
-      "path": "001~编程学习/前端/发布订阅/MITT.md"
-    },
-    {
-      "basename": "PubSubJS",
-      "path": "001~编程学习/前端/发布订阅/PubSubJS.md"
     }
   ],
   "omittedPaths": [],

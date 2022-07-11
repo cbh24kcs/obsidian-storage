@@ -35,12 +35,12 @@
 	- `toLocaleString ( )`
 	- `join ( )` 修改数组分隔符
 - ### 栈/队列
-	- `push ( );` 数组末尾添加元素
-	- `pop ( );` 数组末尾删除元素
-	- `shift ( );` 数组开头删除元素
-	- `unshift ( );` 数组开头添加元素
-     *==【TIPS 1】==* 以上方法删除元素返回被删除项，添加元素返回数组长度
-     *==【TIPS 2】==* 性能比较： `push/pop` 方法运行的比较快，而 `shift/unshift` 比较慢
+	- `push ( );` 数组末尾添加元素 #push 
+	- `pop ( );` 数组末尾删除元素  #pop 
+	- `shift ( );` 数组开头删除元素 #shift
+	- `unshift ( );` 数组开头添加元素 #unshift  
+	- *==【TIPS 1】==* 以上方法删除元素返回被删除项，添加元素返回数组长度
+	- *==【TIPS 2】==* 性能比较： `push/pop` 方法运行的比较快，而 `shift/unshift` 比较慢
 - ### 排序
 	- `reverse ( );` 反向排序
 	- `soft ( );` 
@@ -72,7 +72,7 @@
 		- 返回 *==被删除元素组成的数组==*
 		- 支持负值索引，从末尾计算
 - ### 搜索
-	- `indexof ([element], [start]);` 从数组开头开始，找到则返回元素位置，没找到返回-1
+	- `indexof ([element], [start]);` 从数组开头开始，找到则返回元素位置，没找到返回-1 #indexof
 	- `lastindexof ([element], [start];` 从数组末尾开始，找到则返回元素位置，没找到返回-1
 	- `includes ([element], [start]);`  返回布尔值 *==ES7新增==*
 		- `includes` 能找到NaN，但是 `indexOf` 找不到NaN
