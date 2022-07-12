@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01~学习笔记/JavaScript/对象、原型、类/对象、类与面向对象编程.md",
+            "file": "obsidian-assets/daily-note/2022-07-13.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01~学习笔记/JavaScript/对象、原型、类/对象、类与面向对象编程.md"
+                "file": "obsidian-assets/daily-note/2022-07-13.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01~学习笔记/JavaScript/对象、原型、类/对象、类与面向对象编程.md",
+                "file": "obsidian-assets/daily-note/2022-07-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01~学习笔记/JavaScript/对象、原型、类/对象、类与面向对象编程.md",
+                "file": "obsidian-assets/daily-note/2022-07-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,6 +163,7 @@
   },
   "active": "630de1d8843217b7",
   "lastOpenFiles": [
+    "obsidian-assets/daily-note/2022-07-13.md",
     "01~学习笔记/JavaScript/对象、原型、类/对象、类与面向对象编程.md",
     "01~学习笔记/JavaScript/数组/JS数组方法整理.md",
     "01~学习笔记/JavaScript/函数/函数.md",
@@ -171,7 +172,6 @@
     "01~学习笔记/小技巧/数组拼接（仅包含数组&数值）.md",
     "01~学习笔记/小技巧/节流函数.md",
     "obsidian-assets/daily-note/2022-07-11.md",
-    "obsidian-assets/daily-note/2022-07-09.md",
-    "obsidian-assets/daily-note/2022-07-05.md"
+    "obsidian-assets/daily-note/2022-07-09.md"
   ]
 }
