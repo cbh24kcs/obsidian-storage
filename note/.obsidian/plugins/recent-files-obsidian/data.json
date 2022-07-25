@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "2022-07-25",
-      "path": "obsidian-assets/daily-note/2022-07-25.md"
+      "basename": "期约与异步",
+      "path": "01~学习笔记/JavaScript/期约与异步/期约与异步.md"
+    },
+    {
+      "basename": "对象、类与面向对象编程",
+      "path": "01~学习笔记/JavaScript/对象、原型、类/对象、类与面向对象编程.md"
     },
     {
       "basename": "函数",
@@ -17,8 +21,12 @@
       "path": "01~学习笔记/JavaScript/数组/JS数组方法整理.md"
     },
     {
-      "basename": "对象、类与面向对象编程",
-      "path": "01~学习笔记/JavaScript/对象、原型、类/对象、类与面向对象编程.md"
+      "basename": "绝对定位",
+      "path": "01~学习笔记/CSS/绝对定位.md"
+    },
+    {
+      "basename": "2022-07-25",
+      "path": "obsidian-assets/daily-note/2022-07-25.md"
     },
     {
       "basename": "数组去重(仅包含数值）",
@@ -67,10 +75,6 @@
     {
       "basename": "VUE2",
       "path": "01~学习笔记/Vue/VUE2.md"
-    },
-    {
-      "basename": "绝对定位",
-      "path": "01~学习笔记/CSS/绝对定位.md"
     },
     {
       "basename": "DailyNote",
