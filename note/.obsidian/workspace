@@ -7,13 +7,8 @@
         "id": "630de1d8843217b7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "01~学习笔记/JavaScript/期约与异步/期约与异步.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -120,9 +115,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01~学习笔记/JavaScript/期约与异步/期约与异步.md"
-              }
+              "state": {}
             }
           },
           {
@@ -131,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01~学习笔记/JavaScript/期约与异步/期约与异步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01~学习笔记/JavaScript/期约与异步/期约与异步.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,15 +154,15 @@
   },
   "active": "630de1d8843217b7",
   "lastOpenFiles": [
+    "obsidian-assets/daily-note/2022-08-07.md",
+    "01~学习笔记/JavaScript/期约与异步/期约与异步.md",
     "01~学习笔记/JavaScript/对象、原型、类/对象、类与面向对象编程.md",
     "01~学习笔记/JavaScript/函数/函数.md",
-    "01~学习笔记/JavaScript/期约与异步/期约与异步.md",
     "01~学习笔记/JavaScript/函数/JS函数的参数传递方式.md",
     "01~学习笔记/JavaScript/数组/JS数组方法整理.md",
     "01~学习笔记/CSS/绝对定位.md",
     "01~学习笔记/JavaScript/未命名.md",
     "obsidian-assets/daily-note/2022-07-25.md",
-    "01~学习笔记/小技巧/数组去重(仅包含数值）.md",
-    "01~学习笔记/小技巧/数组拼接（仅包含数组&数值）.md"
+    "01~学习笔记/小技巧/数组去重(仅包含数值）.md"
   ]
 }
