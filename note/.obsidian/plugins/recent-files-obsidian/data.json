@@ -5,6 +5,22 @@
       "path": "obsidian-assets/daily-note/2022-08-13.md"
     },
     {
+      "basename": "JS数组方法整理",
+      "path": "01~学习笔记/JavaScript/数组/JS数组方法整理.md"
+    },
+    {
+      "basename": "数组去重(仅包含数值）",
+      "path": "01~学习笔记/小技巧/数组去重(仅包含数值）.md"
+    },
+    {
+      "basename": "数组拼接（仅包含数组&数值）",
+      "path": "01~学习笔记/小技巧/数组拼接（仅包含数组&数值）.md"
+    },
+    {
+      "basename": "函数",
+      "path": "01~学习笔记/JavaScript/函数/函数.md"
+    },
+    {
       "basename": "2022-08-07",
       "path": "obsidian-assets/daily-note/2022-08-07.md"
     },
@@ -17,16 +33,8 @@
       "path": "01~学习笔记/JavaScript/对象、原型、类/对象、类与面向对象编程.md"
     },
     {
-      "basename": "函数",
-      "path": "01~学习笔记/JavaScript/函数/函数.md"
-    },
-    {
       "basename": "JS函数的参数传递方式",
       "path": "01~学习笔记/JavaScript/函数/JS函数的参数传递方式.md"
-    },
-    {
-      "basename": "JS数组方法整理",
-      "path": "01~学习笔记/JavaScript/数组/JS数组方法整理.md"
     },
     {
       "basename": "绝对定位",
@@ -35,14 +43,6 @@
     {
       "basename": "2022-07-25",
       "path": "obsidian-assets/daily-note/2022-07-25.md"
-    },
-    {
-      "basename": "数组去重(仅包含数值）",
-      "path": "01~学习笔记/小技巧/数组去重(仅包含数值）.md"
-    },
-    {
-      "basename": "数组拼接（仅包含数组&数值）",
-      "path": "01~学习笔记/小技巧/数组拼接（仅包含数组&数值）.md"
     },
     {
       "basename": "节流函数",
